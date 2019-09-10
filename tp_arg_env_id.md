@@ -26,9 +26,9 @@ Programmez les exemples du cours et testez les.
 
 - `echoargenv.c` (diapositive 21, coté gauche, Unix seulement)
 
-- `echoargenviron.c` (diapositive 24)
+- `echoargenviron.c` (diapositive 23)
 
-- `exemple_environ_2.c` (diapositive 25)
+- `exemple_environ_2.c` (diapositive 24)
 
 On rappelle que pour compiler un programme C simple en ligne de commande, il suffit de lancer : 
 
