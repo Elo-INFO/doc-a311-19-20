@@ -24,7 +24,7 @@ Les réponses aux exercices sont à rendre sur votre dépôt github de nom `A311
 
 Programmez les exemples du cours et testez les.
 
-- `echoargenv.c` (diapositive 22, coté gauche, Unix seulement)
+- `echoargenv.c` (diapositive 21, coté gauche, Unix seulement)
 
 - `echoargenviron.c` (diapositive 24)
 
