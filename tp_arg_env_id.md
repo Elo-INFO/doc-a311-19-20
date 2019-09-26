@@ -2,7 +2,7 @@
 
 ### Rendu de TP
 
-Les réponses aux exercices sont à rendre sur votre dépôt github de nom `A311_Prenom_NOM` (https://github.com/uns-iut-info/A311_Prenom_NOM.git), en respectant les consignes suivantes :
+Les réponses aux exercices sont à rendre sur votre dépôt github de nom `a311-username` (https://github.com/uns-iut-info/a311-username.git), en respectant les consignes suivantes :
 
 - [ ] tous les fichiers sont placés sous le répertoire `TP_ARG_ENV_ID` (en majuscule), vous ne devez pas inclure les exécutables
 
@@ -24,11 +24,11 @@ Les réponses aux exercices sont à rendre sur votre dépôt github de nom `A311
 
 Programmez les exemples du cours et testez les.
 
-- `echoargenv.c` (diapositive 22, coté gauche, Unix seulement)
+- `echoargenv.c` (diapositive 21, coté gauche, Unix seulement)
 
-- `echoargenviron.c` (diapositive 24)
+- `echoargenviron.c` (diapositive 23)
 
-- `exemple_environ_2.c` (diapositive 25)
+- `exemple_environ_2.c` (diapositive 24)
 
 On rappelle que pour compiler un programme C simple en ligne de commande, il suffit de lancer : 
 
@@ -56,7 +56,7 @@ echoargenv TOTO
 
 ## Exercice 2 : Makefile
 
-En vous inspirant du fichier `Makefile` de la diapositive 27, écrivez le `Makefile` qui permet de compiler les trois exemples précédents (fichier à inclure dans le même répertoire que les sources).
+En vous inspirant du fichier `Makefile` de la diapositive 26, écrivez le `Makefile` qui permet de compiler les trois exemples précédents (fichier à inclure dans le même répertoire que les sources).
 
 **Avant de passer à la suite, sauvegardez vos fichiers sur le dépôt github.**
 
@@ -73,7 +73,7 @@ make all
 
 ## Exercice 3 : appels systèmes
 
-Commentez l'affichage produit par l'exécution de la commande `strace` sur l'exécutable `echoargenv` (voir diapos 17).
+Commentez l'affichage produit par l'exécution de la commande `strace` sur l'exécutable `echoargenv` (voir diapos 16).
 
 
 
